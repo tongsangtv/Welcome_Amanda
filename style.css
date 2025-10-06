@@ -23,7 +23,7 @@ body {
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
-  gap: 35px;
+  gap: 10px;
   margin: 150px 0;
   align-items: center;
 }
@@ -73,6 +73,7 @@ body {
 .name {
   font-weight: 500;
   font-size: 24px;
+  color: #3e435d;
 }
 
 .date {
@@ -96,7 +97,7 @@ body {
 
 .notification {
   background-color: #ffffff;
-  padding: 10.8px 14px 10.8px 14px;
+  padding: 14px 14px 7.6px 14px;
   border-radius: 8px;
   justify-content: center;
   align-items: center;
@@ -157,7 +158,7 @@ body {
   line-height: 30px;
 }
 .info-name {
-  font-weight: bold;
+  font-weight: 500;
   font-size: 20px;
 }
 
